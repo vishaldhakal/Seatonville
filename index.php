@@ -119,7 +119,7 @@
                     </h1>
                     <p class=" headline-textt mt-0 pt-2 text-white px-md-0 px-3 text-center fw-bold" data-aos="fade-up"
                         data-aos-duration="2000" data-aos-delay="50"> Starting from Low
-                        $816K
+                        $959K
                     </p>
 
                     <a href="#Contact"
@@ -149,7 +149,7 @@
                     Address: 1505 Alexander Knox Rd, Pickering
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
-                    Pricing: Starting from Low $816K
+                    Pricing: Starting from Low $959K
                 </p>
                 <p class="mybot pb-md-0 pb-0 ">
                     Occupancy: Estimated 2025
@@ -289,7 +289,7 @@
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">AT BROCK RD AND CONCESSION RD 5</span>
                 <div class="row row-cols-md-2 row-cols-1 text-center mx-2 mx-md-0">
                     <div class="bg-white p-1  rounded-mine d-flex justify-content-center col">
-                        <img src="./images/siteplan.jpg" class="img-fluid" alt="Seatonville Sitemap">
+                        <img src="./images/siteplan.jpeg" class="img-fluid" alt="Seatonville Sitemap">
                     </div>
                     <div class="bg-white p-1 rounded-mine d-flex justify-content-center align-items-center col">
 
